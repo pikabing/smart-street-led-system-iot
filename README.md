@@ -1,0 +1,2 @@
+# Smart-Street-LED-System-3rd-Year-Project
+Intelligent street lighting refers to public street lighting that adapts to movement by pedestrians, cyclists and cars. Intelligent street lighting, also referred to as adaptive street lighting, dims when no activity is detected, but brightens when movement is detected. This type of lighting is different from traditional, stationary illumination, or dimmable street lighting that dims at pre-determined times. We've made a prototype of it by using an Arduino and its IDE.
