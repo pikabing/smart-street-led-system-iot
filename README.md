@@ -9,13 +9,16 @@ We propose an autonomous light distribution system in which the initial street l
 When it senses an object, it’ll increase its intensity to full and also light up 2 more street lights in front of it. After the object  has gone by, the light changes back to its initial state, i.e. the first street light will be at a dim brightness and the rest that were on will be turned off.
 
 <h3>Components Used</h3>
-1. LDR – Light Dependent Resistors
-2. IR – Infrared Sensors
-3. LED – Light Emitting Diode
-4. Arduino
-5. Breadboard and wires
-6. LM393 Speed Sensor
+1. LDR – Light Dependent Resistors<br>
+2. IR – Infrared Sensors<br>
+3. LED – Light Emitting Diode<br>
+4. Arduino<br>
+5. Breadboard and wires<br>
+6. LM393 Speed Sensor<br>
 
-Reference:
+<br>
+<br>
+
+Reference:<br>
 https://www.youtube.com/watch?v=2mwVC08looc
 https://www.researchgate.net/publication/262352965_Smart_street_light_system_with_energy_saving_function_based_on_the_sensor_network
